@@ -36,9 +36,9 @@ TBD – Once core features are implemented, this section will include how to run
 
 ## Roadmap 🚀
 - [x] Set up project structure & dependencies
-- [ ] Implement basic AI agent functionality
+- [x] Implement basic AI agent functionality
 - [x] Develop multi-dice roller
-- [ ] Add NPC character generator
+- [x] Add NPC character generator
 - [ ] Integrate campaign planning assistant
 - [ ] Implement knowledge base system
 - [ ] UI/API for easy interaction
