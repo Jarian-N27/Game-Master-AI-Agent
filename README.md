@@ -15,7 +15,7 @@ Game Master AI Agent is an AI-powered assistant designed to help tabletop RPG Ga
 ## Tech Stack
 - **Framework:** [Hugging Face SmolAgents](https://huggingface.co/docs/smolagents/index)
 - **Language:** Python
-- **APIs & Libraries:** OpenAI API (for text generation), NLTK/Spacy (for NLP), Flask (for UI/API interactions)
+- **APIs & Libraries:** Hugging Face Inference API (for text generation), Gradio (for UI/API interactions)
 
 ## Installation (WIP)
 ```bash
@@ -39,7 +39,7 @@ TBD – Once core features are implemented, this section will include how to run
 - [x] Implement basic AI agent functionality
 - [x] Develop multi-dice roller
 - [x] Add NPC character generator
-- [ ] Integrate campaign planning assistant
+- [x] Integrate campaign planning assistant
 - [ ] Implement knowledge base system
 - [ ] UI/API for easy interaction
 
